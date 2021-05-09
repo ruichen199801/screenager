@@ -19,7 +19,7 @@ Screenager is a personalized Twitch resources recommendation engine. Users can s
 * Users will get recommended either by most popular games or by their own like history
 
 ### A Minor Issue
-Please note that front end and back end are developed separately in local environment and uploaded to GitHub in the same fashion. However, to run it locally and deploy it on a EC2 VM instance, you need to build the front end code and move them to the back-end project such that all code will be hosted on the same server for cost saving purpose
+Please note that front end and back end are developed separately in local environment and uploaded to GitHub in the same fashion. However, I build the front end code and move them to the back-end project such that all code will be hosted on the same server for cost saving purpose, while it is more common practice to deploy front end and back end separately for large-scale projects.
 
 <br><em>Ruichen Zhang</em>
 <br><br>May 9, 2021
