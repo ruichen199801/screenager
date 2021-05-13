@@ -6,7 +6,7 @@
 Screenager is a personalized Twitch resources recommendation engine. Users can search and retrieve real-time Twitch resources using Twitch API and make their favorite collection. They can then get recommended based on trending games or their like history. To learn more use of Twitch API, please see the [Twitch API documentation](https://dev.twitch.tv/docs/api/).
 
 ### Tools and Technologies
-* <strong>Front-end: </strong>React.js (with Ant Design)
+* <strong>Front-end: </strong>React.js, Ant Design
 * <strong>Back-end: </strong>Java, MySQL (AWS RDS)
 * <strong>Search: </strong>Twitch API
 * <strong>Recommendation: </strong>A content-based algorithm implemented in Java
