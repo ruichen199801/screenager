@@ -10,6 +10,7 @@ Screenager is a personalized Twitch resources recommendation engine. Users can s
 * <strong>Back-end: </strong>Java, MySQL (AWS RDS)
 * <strong>Search: </strong>Twitch API
 * <strong>Recommendation: </strong>A content-based algorithm implemented in Java
+* <strong>Authentication: </strong>Cookie-based auth
 * <strong>Deployment: </strong>AWS EC2
 
 ### Main Features
