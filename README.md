@@ -1,6 +1,6 @@
 ## Screenager
 
-<p align="center"><img src="pictures/demo-1.jpg" alt="Before Logged-in"></p>
+<p align="center"><img src="pictures/demo-1.jpg" alt="Demo Picture"></p>
 
 ### Overview
 Screenager is a personalized Twitch resources recommendation engine. Users can search and retrieve real-time Twitch resources using Twitch API and make their favorite collection. They can then get recommended based on trending games or their like history. To learn more details, please see the [demo video](https://www.youtube.com/watch?v=y7w9gKh-MhQ).
@@ -15,7 +15,7 @@ Screenager is a personalized Twitch resources recommendation engine. Users can s
 
 ### Main Features
 
-<p align="center"><img src="pictures/demo-2.jpg" alt="After Logged-in"></p>
+<p align="center"><img src="pictures/demo-2.jpg" alt="Demo Picture"></p>
 
 * Supports basic login/logout function
 * Users can search any game they like and get some top results grouped by streams/videos/clips, and view them on the Twitch website
