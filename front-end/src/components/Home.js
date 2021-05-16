@@ -12,9 +12,9 @@ const tabKeys = {
 
 const processUrl = (url) => url
   .replace('%{height}', '252')
-  .replace('%{width}', '480')
+  .replace('%{width}', '460')
   .replace('{height}', '252')
-  .replace('{width}', '480');
+  .replace('{width}', '460');
 
 const renderCardTitle = (item, loggedIn, favs, favOnChange) => {
   const title = `${item.broadcaster_name} - ${item.title}`;
@@ -61,10 +61,10 @@ const renderCardGrid = (data, loggedIn, favs, favOnChange) => {
     <List
       grid={{
         xs: 1,
-        sm: 2,
-        md: 4,
-        lg: 4,
-        xl: 6,
+        sm: 1,
+        md: 1,
+        lg: 1,
+        xl: 2,
       }}
       dataSource={data}
       renderItem={item => (
