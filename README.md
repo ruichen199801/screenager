@@ -8,7 +8,7 @@ Screenager is a personalized Twitch resources recommendation engine. Users can s
 ### Tools and Technologies
 * <strong>Front-end: </strong>React.js, Ant Design
 * <strong>Back-end: </strong>JavaEE, Apache Tomcat, MySQL (AWS RDS)
-* <strong>Retrieve Games: </strong>Twitch APIs
+* <strong>Retrieving Games: </strong>Twitch APIs
 * <strong>Recommendation: </strong>A content-based algorithm implemented in Java
 * <strong>Authentication: </strong>Cookie-based auth
 * <strong>Deployment: </strong>AWS EC2
@@ -23,8 +23,8 @@ Screenager is a personalized Twitch resources recommendation engine. Users can s
 * Users will get recommended either by most popular games or by their own like history
 
 ### References
-* Please go through [Create React App](https://facebook.github.io/create-react-app/docs/getting-started) on how to create, run and build a React.js project as well as back-end integration.
-* To learn more use of Twitch API, please see the [Twitch API documentation](https://dev.twitch.tv/docs/api/).
+* [Create-react-app docs](https://facebook.github.io/create-react-app/docs/getting-started)
+* [Twitch API docs](https://dev.twitch.tv/docs/api/)
 
 <br><em>Ruichen Zhang</em>
 <br><br>May 9, 2021
