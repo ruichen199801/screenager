@@ -19,8 +19,8 @@ import java.net.URLEncoder;
 import java.util.*;
 
 public class TwitchClient {
-    private static final String TOKEN = "placeholder"; // "Bearer xxxx", expire in around 2 months
-    private static final String CLIENT_ID = "placeholder"; // "xxxx", same per Twitch developer
+    private static final String TOKEN = "Bearer xxxx"; // uses token-based auth, expire in around 2 months
+    private static final String CLIENT_ID = "xxxx"; // "xxxx", every Twitch developer account has one unique id
     private static final String TOP_GAME_URL = "https://api.twitch.tv/helix/games/top?first=%s";
     private static final String GAME_SEARCH_URL_TEMPLATE = "https://api.twitch.tv/helix/games?name=%s";
     private static final int DEFAULT_GAME_LIMIT = 20;
